@@ -37,6 +37,8 @@ If you want to preview the application, simply clone the repository and launch t
 ### Used technologies
 The application was fully coded in SwiftUI. The application is available for devices with iOS version 16.2 and up. The only package dependency is 'Alamofire' used to establish the connection to the OpenAI's API in our application
 # Installation
+NOTE: You should own an Apple device (MacBook, Mac mini, iMac) in order to access the files using Xcode.
+
 Clone the repository on your machine and simply open the AiCare.xcodeproj file. Everything should work from there.
 # Credits
 ### Duo
