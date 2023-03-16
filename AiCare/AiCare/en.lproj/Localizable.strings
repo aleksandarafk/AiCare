@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  AiCare
+
+  Created by Yoana Ivanova on 12/03/2023.
+  
+*/
+
+"5mins" = "5 minute read";
+"fav_articles" = "Favorite Articles";
+"articles" = "Articles";
+"search" = "Search";
+"chat_msg" = "Hello, I am Vexi! I am designed to give you advices, if you are feeling sick or you are not sure of what you should do. Ask something like 'I think, that I have a cold, what should I do?' to get started.";
+"cant_talk" = "I can’t talk right now";
+"vexi_message" = "Would you like to continue talking with Vexi via chat?";
+"confirm" = "Confirm";
+"cancel" = "Cancel";
+"featured" = "Featured";
+"map" = "Map";
+"profile" = "Profile";
+"login" = "Log in";
+"email" = "Email ID";
+"password" = "Password";
+"confirm_pass" = "Confirm Password";
+"forgot_pass" = "Forgot password?";
+"login_btn" = "Login";
+"login_appl" = "Login with Apple";
+"register_appl" = "Register with Apple";
+"or" = "OR";
+"register_msg" = "Already have an account?";
+"login_msg" = "New to AiCare?";
+"register" = "Register";
+"badges_comp" = "Completed Badges";
+"badges_uncomp" = "Uncompleted Badges";
+"delete_btn" = "Delete my Account";
+"delete_title" = "Are you sure?";
+"delete_msg" = "Are you sure you want to delete your account? This action is irreversible.";
+"delete" = "Delete";
+"comp_badge" = "Use our App";
+"comp_badge1" = "Use Vexi";
+"comp_badge2" = "Read an Article";
+"uncomp_badge" = "Hey Doc";
+"uncomp_badge1" = "Feedback";
+"uncomp_badge2" = "Megamind";
+"username" = "Username";
+"question" = "Ask me a question...";
+"send" = "Send";
+"directions_btn" = "Show Directions";
+"directions" = "Directions";
+"hospitals" = "Close-by Hospitals";
+"hospital_info" = "Choose the hospital you want in order to get directions.";

@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  AiCare
+
+  Created by Yoana Ivanova on 12/03/2023.
+  
+*/
+
+"5mins" = "5 minuten lezen";
+"fav_articles" = "Favoriete artikelen";
+"articles" = "Artikelen";
+"search" = "Zoeken";
+"chat_msg" = "Hallo, ik ben Vexi! Ik ben ontworpen om u advies te geven als u zich ziek voelt of als u niet zeker weet wat u moet doen. Vraag iets als 'Ik denk dat ik verkouden ben, wat moet ik doen? Ik doe?' starten.";
+"cant_talk" = "Ik kan nu niet praten";
+"vexi_message" = "Wilt u met Vexi blijven praten via chat?";
+"confirm" = "Bevestigen";
+"cancel" = "Annuleren";
+"featured" = "Aanbevolen";
+"map" = "Kaart";
+"profile" = "Profiel";
+"login" = "Inloggen";
+"email" = "E-mail-ID";
+"password" = "Wachtwoord";
+"confirm_pass" = "Wachtwoord bevestigen";
+"forgot_pass" = "Wachtwoord vergeten?";
+"login_btn" = "Inloggen";
+"login_appl" = "Log in met Apple";
+"register_appl" = "Registreer bij Apple";
+"or" = "OF";
+"register_msg" = "Heeft u al een account?";
+"login_msg" = "Nieuw bij AiCare?";
+"register" = "Registreren";
+"badges_comp" = "Voltooide badges";
+"badges_uncomp" = "Onvoltooide badges";
+"delete_btn" = "Mijn account verwijderen";
+"delete_title" = "Weet je het zeker?";
+"delete_msg" = "Weet u zeker dat u uw account wilt verwijderen? Deze actie is onomkeerbaar.";
+"delete" = "Verwijderen";
+"comp_badge" = "Gebruik onze app";
+"comp_badge1" = "Vexi gebruiken";
+"comp_badge2" = "Lees een artikel";
+"uncomp_badge" = "Hé dokter";
+"uncomp_badge1" = "Feedback";
+"uncomp_badge2" = "Megamind";
+"username" = "Gebruikersnaam";
+"question" = "Ask me a question...";
+"send" = "Send";
+"directions_btn" = "Toon routebeschrijving";
+"directions" = "Richting";
+"hospitals" = "Ziekenhuizen in de buurt";
+"hospital_info" = "Kies het gewenste ziekenhuis om een routebeschrijving op te vragen.";
