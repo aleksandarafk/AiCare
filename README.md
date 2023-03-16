@@ -19,6 +19,10 @@ If you want to preview the application, simply clone the repository and launch t
 * Receiving result based on the questions that you asked
 * Chat assistant is made as a replication to the iMessage's UI
 * Chat assistant is possible due to the OpenAI's API(the api is missing from the repository, making the chat non-functional, if you want to make it work add your api key)
+###### Translation - using system language
+* Dutch
+* Bulgarian
+* English
 ###### Map
 * Preset location of a hospital
 * Directions to the preset hospital
